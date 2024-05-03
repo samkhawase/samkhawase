@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam Khawase
 - 🐻 I’m a Software Engineer based in Berlin
-- 🌱 I’m currently working on a several things
+- 🏔️ I’m an avid runner and trekker
 - 📫 You can reach me from my website: https://samkhawase.com
 
 <!---
